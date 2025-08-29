@@ -2,6 +2,9 @@
 
 An AI-powered career Q\&A chatbot that answers questions about **Niv Caduri’s** background, skills, and experience. Built with **Python**, **Gradio**, and the **OpenAI API**, and designed to run locally or on **Hugging Face Spaces**. The app can also record user interest (email) and log unknown questions via **Pushover** notifications.&#x20;
 
+## 🚀 Live Demo
+👉 [Try it here on Hugging Face Spaces](https://huggingface.co/spaces/nivcaduri/career_conversation)
+
 ## Features
 
 * **Persona-accurate responses**: System prompt composes from a summary file and full resume text (PDF) to answer as “Niv Caduri.”
